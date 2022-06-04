@@ -1,0 +1,52 @@
+body {
+  font-family: 'Montserrat, sans-serif';
+}
+
+#title {
+  background-color: #115173;
+  color: #fff;
+}
+
+
+ /* this is applied in h1 tag itself */
+h1 {
+  font-family: 'Montserrat, sans-serif';
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+
+ /* this is applied in div tag */
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* navbar  */
+
+ /* this is applied in internal css */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nab-link {
+  font-family: 'Montserrat',sans-serif;
+  font-weight: normal;
+}
+
+.navbar-brand {
+  font-family: ubuntu;
+  /* font size is applied in internal css */
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+ /* download-button */
+
+ .download-button {
+   margin: 5% 3% 5% 0;
+ }
